@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded',function(){
 	console.log(background)
 	var LinkCinema = document.querySelector('#cinemaLink')
 	LinkCinema.addEventListener('click',function(){
-		background.style.backgroundImage = "url('Mapas/cinemas.png')"
+		background.style.backgroundImage = "url('https://tnbsx.github.io/Mapas/cinemas.PNG')"
 	})
 	var LinkTeatro = document.querySelector('#teatroLink')
 	LinkTeatro.addEventListener('click',function(){
