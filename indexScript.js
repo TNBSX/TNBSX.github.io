@@ -7,15 +7,15 @@ document.addEventListener('DOMContentLoaded',function(){
 	})
 	var LinkTeatro = document.querySelector('#teatroLink')
 	LinkTeatro.addEventListener('click',function(){
-		background.style.backgroundImage = "url('Mapas/teatros.png')"
+		background.style.backgroundImage = "url('https://tnbsx.github.io/Mapas/teatros.PNG')"
 	})
 	var LinkExpos = document.querySelector('#exposicaoLink')
 	LinkExpos.addEventListener('click',function(){
-		background.style.backgroundImage = "url('Mapas/exposicoes_2.png')"
+		background.style.backgroundImage = "url('https://tnbsx.github.io/Mapas/exposicoes_2.PNG')"
 	})
 	var LinkMuseu = document.querySelector('#museuLink')
 	LinkMuseu.addEventListener('click',function(){
-		background.style.backgroundImage = "url('Mapas/museus_2.png')"
+		background.style.backgroundImage = "url('https://tnbsx.github.io/Mapas/museus_2.PNG')"
 	})
 
 })
